@@ -35,7 +35,7 @@ namespace Ensayo
          
 
             try
-            {
+            { 
                 //abrir conexion
                 conn.Open();
                 cmdNuevaC.ExecuteNonQuery();
